@@ -1,2 +1,7 @@
 .env
 secrets.conf
+script.sh
+install.sh
+README.md
+.gitignore
+.env.example
