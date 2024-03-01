@@ -1,7 +1,9 @@
 .env
 secrets.conf
-script.sh
-install.sh
-README.md
-.gitignore
-.env.example
+*.swp
+*.tmp
+printer-[0-9]*_[0-9]*.cfg
+*.bak
+*.bkp
+*.csv
+*.zip
